@@ -11,3 +11,4 @@ template.yaml
 .aws-sam/
 env/prod.env
 Postman Agent/
+Postman Agent/app/_Postman Agent
